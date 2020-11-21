@@ -2,6 +2,8 @@
   "name": "kh-pages",
   "version": "0.1.0",
   "author": "klayhao <1685121924@qq.com>",
+  "homepage": "https://github.com/KlayHao/kh-pages",
+  "github": "https://github.com/KlayHao/kh-pages",
   "main": "lib/index.js",
   "bin": "bin/cli.js",
   "files": [
